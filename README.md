@@ -17,10 +17,6 @@ Uygulama, Android'in yerel kısıtlamaları (Non-Root) dahilinde aşağıdaki ar
 * **Curl:** Web sitelerinin kaynak kodunu (HTML) çeker.
 * **Neofetch:** Sistem ve cihaz bilgilerini terminal grafiği ile gösterir.
 
-## 📷 Ekran Görüntüleri
-
-*(Buraya uygulamanın ekran görüntüsünü eklerseniz çok havalı olur)*
-
 ## 🛠️ Kurulum
 
 1. Bu depoyu klonlayın veya ZIP olarak indirin.
